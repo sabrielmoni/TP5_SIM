@@ -1,4 +1,4 @@
-# SIM-TP4-Sistema de Colas
+# SIM TP5: Sistema de Colas - Runge Kutta
 ## a) Realizar la especificación de requerimientos funcionales de un programa que realice la simulación de un sistema dinámico (de líneas de espera/colas). Dicha especificación deberá incluir claramente:
     alcances
     parámetros de entrada
